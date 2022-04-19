@@ -1,4 +1,4 @@
-pipeline {
+pipeline {  
     agent any 
         environment {
             DockerImageName = "stark985/practicerepo"
